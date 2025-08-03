@@ -35,7 +35,7 @@ Travel budget planning tools
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
 - Step 4 : It was observed that in none of the columns errors & empty values were present except column named "Arrival Delay".
 
-### Insight: Average Flight Price by Airline
+### Insight1: Average Flight Price by Airline
 Airlines like Air India and Vistara tend to charge higher average prices.
 
 Budget carriers like SpiceJet and AirAsia are on the lower end of the price spectrum.
@@ -43,6 +43,13 @@ Budget carriers like SpiceJet and AirAsia are on the lower end of the price spec
 Snap of bar chart showing average flight price by Airline,
 
 <img width="442" height="290" alt="Image" src="https://github.com/user-attachments/assets/ebb82f95-d398-4325-973d-d2e5e1ed7cf4" />
+
+
+## Insight2: Average Flight Price by Number of stops
+
+
+
+
 
         
 - Step 15 : New measure was created to find total count of customers.
