@@ -48,6 +48,8 @@ Snap of bar chart showing average flight price by Airline,
 ## Insight2: Average Flight Price by Number of stops
 
 
+<img width="411" height="316" alt="Image" src="https://github.com/user-attachments/assets/fe1c76b0-85de-4913-83fe-dae4f339bd3d" />
+The Average flight price decreased with the number of stops. 
 
 
 
