@@ -42,8 +42,7 @@ Budget carriers like SpiceJet and AirAsia are on the lower end of the price spec
         
 Snap of bar chart showing average flight price by Airline,
 
-![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
-
+<img width="442" height="290" alt="Image" src="https://github.com/user-attachments/assets/ebb82f95-d398-4325-973d-d2e5e1ed7cf4" />
 
         
 - Step 15 : New measure was created to find total count of customers.
